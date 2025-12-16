@@ -1,0 +1,3 @@
+- Launch the binary
+- Immediately hit `ctrl+\` on the keyboard to generate a core dump in the home directory
+- Restart the challenge in privileged mode and `sudo strings core`.
